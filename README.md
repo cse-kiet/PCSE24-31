@@ -98,6 +98,6 @@ OpenCV
 Handsfree.js
 
 Contact
-For any questions or suggestions, please open an issue or contact the repository owner at your-harshvardhan200216@gmail.com or js7990382@gmail.com.
+For any questions or suggestions, please open an issue or contact the repository owner at harshvardhan200216@gmail.com or js7990382@gmail.com.
 
 This README provides a comprehensive guide to setting up and using the Hand Gestures Recognition System. If you encounter any issues, please refer to the documentation or seek assistance through the provided contact information.
