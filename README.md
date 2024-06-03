@@ -1,4 +1,4 @@
-# Hand Gestures Recognition System
+# Vision Quest: Real-Time Hand Gestures Recognition System
 ## Overview
 This repository contains a Hand Gestures Recognition System that utilizes MediaPipe for keypoints detection, OpenCV for object detection, and Handsfree.js for hand landmarks. The system is designed to recognize various hand gestures and can be used for applications such as controlling applications with hand movements, sign language recognition, and more.
 
